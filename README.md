@@ -1,0 +1,1 @@
+Solana anchor project for metaplex core nft staking
